@@ -1,16 +1,68 @@
-## Hi there 👋
+# 👋 Hey, I'm Adnan Ahmad Nayeem
 
-<!--
-**Adnan-Ahmad-19/Adnan-Ahmad-19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```python
+class Adnan:
+    def __init__(self):
+        self.role = "CSE Student"
+        self.languages = ["Python", "C#", "Java", "SQL"]
+        self.interests = [
+            "Machine Learning",
+            "Artificial Intelligence",
+            "Software Development",
+            "Problem Solving"
+        ]
+        self.goal = "Machine Learning Engineer"
 
-Here are some ideas to get you started:
+    def say_hi(self):
+        print("Thanks for visiting my profile!")
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+* 🎓 Computer Science & Engineering Student
+* 🐍 Python Developer
+* 💡 Passionate about AI, ML, and Software Engineering
+* 🌱 Currently learning Machine Learning and Data Structures
+* 🔥 Building projects and improving every day
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+* Python
+* C#
+* Java
+* SQL
+
+**Tools**
+
+* Git & GitHub
+* Visual Studio
+* VS Code
+* SQL Server
+
+## 📌 Featured Projects
+
+* 🎯 Course Management System
+* 🏨 Hotel Management System
+* 🤖 Machine Learning Projects
+* 📊 Database Management Projects
+
+## 📈 Current Goals
+
+* Master Machine Learning
+* Contribute to Open Source
+* Solve More DSA Problems
+* Build Real-World Applications
+
+## 🌟 Fun Fact
+
+> I believe consistency beats talent when talent doesn't work consistently.
+
+---
+
+### 📫 Let's Connect
+
+Feel free to explore my repositories and follow my journey as I grow into a Machine Learning Engineer.
+
+⭐ If you like my work, consider starring my repositories!
