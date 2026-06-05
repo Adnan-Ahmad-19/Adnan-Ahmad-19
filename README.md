@@ -31,7 +31,7 @@ class Adnan:
 ## 🚀 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,cs,mysql,git,github,vscode,visualstudio" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,cs,sql,github,vscode,visualstudio" />
 </p>
 
 
