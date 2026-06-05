@@ -1,77 +1,78 @@
-# 👋 Hey, I'm Adnan Ahmad Nayeem
+<h1 align="center">Hi 👋, I'm Adnan Ahmad Nayeem</h1>
+<h3 align="center">CSE Student | Future Machine Learning Engineer | Python Enthusiast</h3>
 
-```python
-class Adnan:
-    def __init__(self):
-        self.role = "CSE Student"
-        self.languages = ["Python", "C#", "Java", "SQL"]
-        self.interests = [
-            "Machine Learning",
-            "Artificial Intelligence",
-            "Software Development",
-            "Problem Solving"
-        ]
-        self.goal = "Machine Learning Engineer"
-
-    def say_hi(self):
-        print("Thanks for visiting my profile!")
-```
-
-## 🚀 About Me
-
-* 🎓 Computer Science & Engineering Student
-* 🐍 Python Developer
-* 💡 Passionate about AI, ML, and Software Engineering
-* 🌱 Currently learning Machine Learning and Data Structures
-* 🔥 Building projects and improving every day
-
-## 🛠️ Tech Stack
-
-**Languages**
-## 🚀 Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,cs,sql,github,vscode,visualstudio" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Python+Developer;Machine+Learning+Learner;Always+Learning+New+Things" />
 </p>
-
-
-🐍 Python
-⚙️ C
-🚀 C++
-☕ Java
-🔷 C#
-🌐 HTML
-🗄️ SQL (MySQL logo)
-
-**Tools**
-
-* Git & GitHub
-* Visual Studio
-* VS Code
-* SQL Server
-
-## 📌 Featured Projects
-
-* 🎯 Course Management System
-* 🏨 Hotel Management System
-* 🤖 Machine Learning Projects
-* 📊 Database Management Projects
-
-## 📈 Current Goals
-
-* Master Machine Learning
-* Contribute to Open Source
-* Solve More DSA Problems
-* Build Real-World Applications
-
-## 🌟 Fun Fact
-
-> I believe consistency beats talent when talent doesn't work consistently.
 
 ---
 
-### 📫 Let's Connect
+## 🚀 About Me
 
-Feel free to explore my repositories and follow my journey as I grow into a Machine Learning Engineer.
+🎓 CSE Student
 
-⭐ If you like my work, consider starring my repositories!
+🐍 Learning Python, Java, C# and SQL
+
+🤖 Interested in Machine Learning & AI
+
+💡 Passionate about Software Development
+
+📚 Currently improving my Programming Skills
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://github.com/Adnan-Ahmad-19">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+---
+
+## 💻 Languages & Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,java,cs,mysql,git,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Adnan-Ahmad-19&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Adnan-Ahmad-19&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adnan-Ahmad-19&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Adnan-Ahmad-19&theme=tokyonight&row=1&column=6" />
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=Adnan-Ahmad-19&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+## ✨ Quote
+
+> "Code. Learn. Build. Repeat."
+
+⭐ Don't forget to star repositories you like!
