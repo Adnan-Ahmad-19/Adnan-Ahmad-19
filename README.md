@@ -56,12 +56,16 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Adnan+Ahmad+Nayeem" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Adnan+Ahmad+Nayeem;C%23+and+C%2B%2B+Developer" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adnan-Ahmad-19&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Adnan-Ahmad-19&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" />
 </p>
+
+
+
+
 ---
 
 
