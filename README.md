@@ -63,6 +63,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Adnan-Ahmad-19&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" />
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Adnan-Ahmad-19&theme=radical&hide_border=true" />
+</p>
+
 
 
 
