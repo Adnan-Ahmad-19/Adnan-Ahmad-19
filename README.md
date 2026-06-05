@@ -28,11 +28,20 @@ class Adnan:
 ## 🛠️ Tech Stack
 
 **Languages**
+## 🚀 Tech Stack
 
-* Python
-* C#
-* Java
-* SQL
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,cs,mysql,git,github,vscode,visualstudio" />
+</p>
+
+
+🐍 Python
+⚙️ C
+🚀 C++
+☕ Java
+🔷 C#
+🌐 HTML
+🗄️ SQL (MySQL logo)
 
 **Tools**
 
